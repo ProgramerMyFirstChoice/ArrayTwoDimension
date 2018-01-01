@@ -16,7 +16,7 @@ namespace Array2DSum
         {
             InitializeComponent();
         }
-
+// edit
         private void button1_Click(object sender, EventArgs e)
         {
             const int ROWS = 3;
