@@ -36,11 +36,7 @@ namespace Array2DSum
                     total += numbers[row, col];
                 }
                 MessageBox.Show("The total of row " + row + " is " + total);
-            }
-
-
-
-            
+            }         
 
 
         }
